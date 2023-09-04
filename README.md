@@ -1,3 +1,3 @@
 # Kavtarev-Artem-Algoritm
-html, css
+python
 👉👈
