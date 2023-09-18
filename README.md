@@ -5,3 +5,4 @@ python;
 Кавтарев - CSS;
 Корж - HTML;
 Сапоненко - JAVA;
+https://docs.google.com/document/d/1mOMhn5PjUTb790bsN7hp78Gqlix6hxudtCOHjgBhiFQ/edit?usp=drivesdk
