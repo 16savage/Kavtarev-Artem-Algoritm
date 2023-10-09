@@ -4,9 +4,9 @@ Git - https://docs.google.com/document/d/1ZB-5RYAWdp7hMSh7k5Y_raUQirnTXgRayOJXr3
 
 python;
 👉👈
-Кавтарев - CSS;
-Корж - HTML;
-Сапоненко - JAVA;
+Кавтарев - Css;
+Корж - Html;
+Сапоненко - Js;
 
 Agile - https://docs.google.com/document/d/1mOMhn5PjUTb790bsN7hp78Gqlix6hxudtCOHjgBhiFQ/edit?usp=drivesdk
 
