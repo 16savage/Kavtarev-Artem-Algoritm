@@ -15,3 +15,5 @@ https://docs.google.com/document/d/1Q6uWm6ukHfUR4QbrDcC9-kvyVhuklMNh__wJqt-8Ndo/
 
 Practice -
 https://drive.google.com/drive/folders/10q9gXZ6LP7co8-w3RzJoubdRPud1eYNc
+
+https://colab.research.google.com/drive/1SUa_1R_tdxfSAObLJ123zbWnS8856JV1
