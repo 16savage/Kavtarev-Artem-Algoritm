@@ -20,4 +20,4 @@ Chisteniy metodi - https://colab.research.google.com/drive/1SUa_1R_tdxfSAObLJ123
 
 Replit - https://replit.com/@16savage
 
-Form Colaboratory - https://colab.research.google.com/drive/1V3Q9UEESlFfMCmBabPpjd2N9F9X3e_AC
+Form - https://colab.research.google.com/drive/1V3Q9UEESlFfMCmBabPpjd2N9F9X3e_AC
